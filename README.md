@@ -1,2 +1,2 @@
 # Tic-Tak-Toe
- It is a simple TicTacToe game in Java
+ It is a simple Tic Tac Toe game in Java
